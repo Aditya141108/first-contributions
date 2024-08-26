@@ -8,6 +8,7 @@ ashutosh Sharma
 Rakesh Radhakrishnan dev was here.
 - [Si Thu Ko](https://github.com/ST-KO) **Lets go**
 -[Vandana Choudhari](https://github.com/VandanaChoudhari) **Start Contribution!**
+-[Aditya Kumar](https://github.com/Aditya141108) **My first contribution**
 - [Godfrey Javier](https://github.com/GodfreyPotato) **hellowiee**
 -[naga jaideep](https;//github.com/nagajaideep) **getting started with open source**
 - [🇯🇵codekakitai51] (https://github.com/codekakitai51) **what's uuuuuuuuuuuuuuuuuuuuuuup!**
